@@ -126,7 +126,7 @@ ul {
   margin-bottom: 10px;
 }
 
-.showcase h2 {
+.showcase h2, h3 {
   color: #fff;
   text-shadow: 2px 2px 4px #000000;
 }
